@@ -1,2 +1,2 @@
-# java-oop
-Curso Alura "Java: aplicando a Orientação a Objetos"
+# Aprenda Java com Orientação a Objetos
+Formação Alura
